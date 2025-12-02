@@ -1,0 +1,15 @@
+# venv
+.venv/
+env/
+venv/
+
+# Python кеші
+__pycache__/
+*.pyc
+
+# Локальні ключі та стани рачета
+pq_client_keys/
+state_*.json
+
+# Локальна "база" акаунтів сервера
+accounts.json
