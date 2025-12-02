@@ -2,6 +2,7 @@
 .venv/
 env/
 venv/
+.idea/
 
 # Python кеші
 __pycache__/
